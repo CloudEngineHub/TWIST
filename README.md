@@ -13,6 +13,10 @@
 </div>
 
 
+https://github.com/user-attachments/assets/7c2b874e-e713-47e1-8e84-0efb93c419b5
+
+
+
 # TODO
 - [ ] Release the whole-body controller
 - [ ] Release the sim2sim in MuJoCo
