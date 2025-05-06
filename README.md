@@ -4,8 +4,8 @@
 
 
 [[Website]](https://humanoid-teleop.github.io/)
-[[Arxiv]]()
-[[Video]]()
+[[Arxiv]](https://arxiv.org/abs/2505.02833)
+[[Video]](https://www.youtube.com/watch?v=QgA7jNoiIZo)
 
 <p align="center">
     <img src="assets/affliation.png" height=50">
