@@ -8,7 +8,7 @@
 [[Video]]()
 
 <p align="center">
-    <img src="assets/affliation.png" height=50"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+    <img src="assets/affliation.png" height=50">
 </p>
 </div>
 
