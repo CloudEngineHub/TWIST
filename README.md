@@ -1,5 +1,17 @@
-# TWIST
-[arXiv 2025] TWIST: Teleoperated Whole-Body Imitation System
+<h1 align="center"> TWIST: Teleoperated Whole-Body Imitation System </h1>
+
+<div align="center">
+
+
+[[Website]](https://humanoid-teleop.github.io/)
+[[Arxiv]]()
+[[Video]]()
+
+<p align="center">
+    <img src="imgs/school.png" height=50"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+</p>
+</div>
+
 
 # TODO
 - [ ] Release whole-body controller for Unitree G1
