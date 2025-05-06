@@ -8,22 +8,18 @@
 [[Video]]()
 
 <p align="center">
-    <img src="imgs/school.png" height=50"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+    <img src="assets/affliation.png" height=50"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 </p>
 </div>
 
 
 # TODO
-- [ ] Release whole-body controller for Unitree G1
-- [ ] Release sim2sim in MuJoCo for Unitree G1
-- [ ] Release sim2real for Unitree G1
+- [ ] Release the whole-body controller
+- [ ] Release the sim2sim in MuJoCo
+- [ ] Release the sim2real scripts and instructions
 - [ ] Release our MoCap motion datasets
-- [ ] Release retargeted AMASS datasets
 - [ ] Release online retargeting pipeline
 - [ ] Release offline retargeting pipeline
 - [ ] Release base training code
 - [ ] Release two-stage training code
 - [ ] Release MoCap streaming code
-- [ ] Release whole-body controller for Booster T1
-- [ ] Release sim2sim in MuJoCo for Booster T1
-- [ ] Release sim2real for Booster T1
