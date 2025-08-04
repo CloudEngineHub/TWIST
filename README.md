@@ -16,11 +16,12 @@
 https://github.com/user-attachments/assets/7c2b874e-e713-47e1-8e84-0efb93c419b5
 
 # News
+- [2025.08.04] Real-time retargeting is released. See [GMR](https://github.com/YanjieZe/GMR).
 - [2025.08.01] TWIST is accpeted by CoRL 2025.
 
 
 # Open-Source Roadmap
 *The code will be fully open-sourced.*
-- [ ] Real-time retargeting (ETA: before 08.08)
+- [x] Real-time retargeting (ETA: before 08.08)
 - [ ] RL+BC training code + dataset (ETA: before 08.15)
 - [ ] Sim2sim & sim2real script (ETA: before 08.22)
