@@ -23,5 +23,5 @@ https://github.com/user-attachments/assets/7c2b874e-e713-47e1-8e84-0efb93c419b5
 # Open-Source Roadmap
 *The code will be fully open-sourced.*
 - [x] Real-time retargeting
-- [ ] RL+BC training code + dataset (ETA: before 08.15)
-- [ ] Sim2sim & sim2real script (ETA: before 08.22)
+- [ ] RL+BC training code + dataset (ETA: around Sep)
+- [ ] Sim2sim & sim2real script (ETA: around Sep)
